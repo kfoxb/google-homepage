@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                <img id="userphoto" src="https://lh3.googleusercontent.com/-jEnMQFsuJsw/AAAAAAAAAAI/AAAAAAAAAAA/Gp7mGEsmGt4/s32-c/photo.jpg">
+                <img id="logo" src="https://www.google.com/images/srpr/logo11w.png">        
+            </div>
+            <div id="search">
+                <div id="searchbox">
+                    <input id="textbox" type=text>
+                </div>
+            </div>
+            <div id="footer">
+        </div>
+    </body>
+</html>

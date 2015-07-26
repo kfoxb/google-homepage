@@ -1,0 +1,167 @@
+
+a:link {
+    text-decoration: none;
+    color: #444444;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #191919;
+}
+
+a:visited {
+    color: #444444;
+}
+
+.leftfooter {
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #444;
+}
+
+.rightfooter {
+    float: right;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #444;
+}
+
+.text {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+.toolbar {
+    float: right; 
+}
+
+input[type="submit"] {
+    background-color: #f5f5f5;
+	background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+	color: #444;
+	border: 1px solid #dcdcdc;
+	border-radius: 2px;
+	font-size: 11px;
+	font-weight: bold;
+    height: 27px;
+	line-height: 27px;
+	padding: 0 8px;
+    margin: 0 6px 0 6px;
+}
+
+#advertising {
+    margin-left: 28px;
+}
+
+#apps {
+    margin-top: 13px;
+    padding:0 8px 0 7px;
+}
+
+#container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #f2f2f2;
+    border: 1px solid #e4e4e4;
+    line-height: 40px;
+}
+
+#header {
+    position: absolute;
+    height: 290px;
+    width: 100%;
+}
+
+#images {
+    margin-top: 21px;
+    padding: 0 8px 0 7px;
+    
+}
+
+#logo {
+    position: absolute;
+    width: 269px;
+    height: 95px;
+    display: block;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%,0%)
+}
+
+#mail {
+    margin-top: 21px;
+    padding: 0 8px 0 7px;
+}
+
+#mic {
+    float:right;
+    height: 19px;
+    padding: 5px;
+    opacity: 0.6;
+}
+
+#notif {
+    margin-top: 13px;
+    padding:0 7px 0 7px;
+}
+
+#search {
+    position: absolute;
+    width: 100%;
+    height: 95px;
+    margin-top: 292px;
+}
+
+#searchbox {
+    position: absolute;
+    left: 50%;
+    margin-top: 18px;
+    margin-left: -280px;
+    height: 28px;
+    width: 560px;
+    border-top: 1px solid #c0c0c0;
+    border-right: 1px solid #e3e3e3;
+    border-bottom: 1px solid #e3e3e3;
+    border-left: 1px solid #e3e3e3;
+}
+
+#searchbuttons {
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: 60px;
+    text-align: center;
+    width: 500px;
+}
+
+#settings {
+    margin-right: 28px;
+}
+
+#textbox {
+    position: absolute;
+    margin: 0 auto;
+    padding: 5px;
+    width: 500px;
+    border: none;
+}
+
+#username {
+    margin-top: 21px;
+    padding: 0 8px 0 7px;
+    color: #828282;
+}
+
+#userphoto {
+    border-radius: 50%;
+    margin: 12px 31px 0 7px;
+}

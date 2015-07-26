@@ -1,0 +1,60 @@
+#container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+#header {
+    background-color: black;
+    height: 270px;
+}
+
+#userphoto {
+    float: right;
+    margin: 14px 29px 0 7px;
+}
+
+#logo {
+    border: 2px dotted white;
+    position: absolute;
+    width: 269px;
+    height: 95px;
+    margin: 0 auto;
+}
+/*#search {
+    position:absolute;
+    top: 33%;
+    left: 50%;
+    width: 480px;
+    height: 326px;
+    margin: -163px 0 0 -240px;
+    background-color: gray;
+}
+
+#searchbox{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 23px;
+    width: 470px;
+    margin: -12px 0 0 -235px;
+    background-color:red;
+}
+#textbox {
+    position: relative;
+    left: 237px;
+    top: 3px;
+    width: 430px;
+    height: 15px;
+    margin: -10px 0 0 -235px;
+}*/
+#footer {
+    background-color: black;/*#f2f2f2;*/
+    height:40px;
+    border-top: 1px solid #e4e4e4;
+    /*width:100%;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;*/
+}
